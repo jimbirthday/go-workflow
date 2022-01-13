@@ -5,7 +5,7 @@ import (
 	"log"
 	"strconv"
 
-	config "github.com/go-workflow/go-workflow/workflow-config"
+	config "github.com/jimbirthday/go-workflow/workflow-config"
 
 	"github.com/jinzhu/gorm"
 

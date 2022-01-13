@@ -1,8 +1,8 @@
 package router
 
 import (
-	config "github.com/go-workflow/go-workflow/workflow-config"
-	controller "github.com/go-workflow/go-workflow/workflow-controller"
+	config "github.com/jimbirthday/go-workflow/workflow-config"
+	controller "github.com/jimbirthday/go-workflow/workflow-controller"
 	"net/http"
 )
 
